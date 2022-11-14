@@ -126,8 +126,8 @@
         "filter": {
           "attributes": {
             "category": "color"
-          }
-        }
+    }
+  }
       },{
         "destination": "StyleDictionarySize.swift",
         "format": "ios-swift/enum.swift",
@@ -135,7 +135,7 @@
         "filter": {
           "attributes": {
             "category": "size"
-          }
+}
         }
       }]
     }
